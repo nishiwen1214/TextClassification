@@ -1,0 +1,2 @@
+# TextClassification
+Pytorch实现文本分类经典模型，TextCNN、TextRNN、TextRCNN、GRU+Attention和Transformer
