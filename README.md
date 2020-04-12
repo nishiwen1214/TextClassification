@@ -30,5 +30,5 @@ Pytorch实现文本分类经典模型，TextCNN、TextRNN、TextRCNN、TextHAN�
 
 **TextHAN:**
 
-- TextHAN+GRU+GloVe Unfreeze: 
+- TextHAN+GRU+GloVe Unfreeze: 89.16%
 
